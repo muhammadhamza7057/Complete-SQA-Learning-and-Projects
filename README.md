@@ -1,5 +1,7 @@
 # Search Library Assignment
 
+![Tests](https://github.com/muhammadhamza7057/Complete-SQA-Learning-and-Projects/actions/workflows/test.yml/badge.svg)
+
 A Java library implementing various search algorithms with comprehensive unit tests.
 
 ## Project Structure
