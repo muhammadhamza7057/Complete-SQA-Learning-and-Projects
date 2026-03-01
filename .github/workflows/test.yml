@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 name: Run MC/DC Tests on Push
+=======
+
+name: Run Tests
+>>>>>>> 0550687584c13b7d978c183d3ea0fee3f3a46171
 
 on:
   push:
